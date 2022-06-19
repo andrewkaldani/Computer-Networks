@@ -1,0 +1,1 @@
+Hello, this is an example of lab 1 for COEN 146L using system calls instead of function calls. You use read (int fd, void* buf, size_t cnt); size_t write (int fd, void* buf, size_t cnt); and int close(int fd)
